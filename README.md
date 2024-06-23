@@ -20,7 +20,8 @@ Nesse projeto foi utilizado o Local binary patterns (LBP) Padrões Binários Loc
 O método de Padrões Binários Locais (LBP) é uma técnica de processamento de imagem que detecta características distintas da textura de uma imagem. Ele compara cada pixel da imagem com seus vizinhos, gerando um histograma que mostra como esses padrões binários estão distribuídos na imagem. Isso ajuda a identificar áreas onde a textura é uniforme ou variada, sendo útil para reconhecer padrões repetitivos ou texturas complexas em imagens. Essa capacidade é fundamental para classificar e reconhecer objetos com precisão.
 
 Repositório do projeto:
-   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+https://github.com/L4arbac/Projeto-Pratico-processamento-de-imagens
 
 ## Classificador e acurácia:    
 
